@@ -39,9 +39,9 @@ Github Action : Jekyll using Docker image
    https://getbootstrap.com/
    ```
 
- <h4> Crea tu Base de datos en el Gestor de base de datos "MYSQL", ya estructurado anteriormente o previamente</h4>
- <h4> Creas tus archivos de PHP y tus carpetas, trabaja en tu editor de texto mas confiable (vscode, sublime, brackets,atom)</h4>  
- <h4> Activa tu servidor local (XAMP)</h4>
- <h4> Empieza a codificar. </h4>
+ <h4> 5.1 Crea tu Base de datos en el Gestor de base de datos "MYSQL", ya estructurado anteriormente o previamente</h4>
+ <h4> 5.2 Creas tus archivos de PHP y tus carpetas, trabaja en tu editor de texto mas confiable (vscode, sublime, brackets,atom)</h4>  
+ <h4> 5.3 Activa tu servidor local (XAMP)</h4>
+ <h4> 5.4 Empieza a codificar. </h4>
 
 ![Descripción de la imagen](capture-HackathonSenati.png)
