@@ -25,6 +25,7 @@
 
 <h4> 4. Diseña tu WEB utilizando HTML - CSS (codigo puro)</h4>
 <h4> 5. En PHP - Utiliza el Framework Bootrastrap solo para diseñar los formularios y reportes| para hacer el formulario de registro de cliente y la tabla de reportes </h4>
+
    ```
    https://getbootstrap.com/
    ```
