@@ -29,7 +29,7 @@ Github Action : Jekyll using Docker image
 
  <h4> 4. Diseña tu WEB utilizando HTML - CSS (codigo puro) </h4>
  <h4> 4.1 Entra a tu GITHUB </h4>  
- <h4> 4.2 Crea tu repositorio ya sea en la organización senati o en tu mismo perfil. </h4>
+ <h4> 4.2 Crea tu repositorio en publico, ya sea en la organización senati o en tu mismo perfil. </h4>
  <h4> 4.3 Invita a tus programadores (colaboradores) para que te ayuden (minimo 2). </h4>
  <h4> 4.4 Empieza a trabajar colaborativamentecon el EDITOR DE TEXTO DE GITHUB en tiempo real- (Revisare los Push y los comentarios) </h4>
  <hr/>
