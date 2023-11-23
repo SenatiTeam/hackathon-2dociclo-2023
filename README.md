@@ -33,7 +33,9 @@ Github Action : Jekyll using Docker image
  <h4> 4.3 Invita a tus programadores (colaboradores) para que te ayuden (minimo 2). </h4>
  <h4> 4.4 Empieza a trabajar colaborativamentecon el EDITOR DE TEXTO DE GITHUB en tiempo real- (Revisare los Push y los comentarios) </h4>
  <hr/>
- <h4> 5. En PHP - Utiliza el Framework Bootrastrap solo para diseñar los formularios y reportes| para hacer el formulario de registro de cliente y la tabla de reportes </h4>
+
+ <h2>Crea un sistema que tenga el LOGIN o INICIAR SESIÓN, tambien REGISTRO y REPORTES de "clientes" utilizando PHP y MSYSQL</h4>
+ <h4> 5. En PHP - Utiliza el Framework Bootrastrap solo para diseñar los formularios, la tabla de reportes, el login </h4>
 
    ```
    https://getbootstrap.com/
