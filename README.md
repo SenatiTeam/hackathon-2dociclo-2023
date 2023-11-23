@@ -1,2 +1,31 @@
-# hackathon-2dociclo-2023
+# Hackathon-2dociclo-2023
+<h3>Pasos a seguir:</h3>
+<h4> 1. Diseñar en Wireframe </h4>
+
+   ```
+   https://excalidraw.com/
+   ```
+<h4> 2. Diseñar en Figma </h4>
+
+   ```
+   Grupo 01
+   https://www.figma.com/file/moUsXJc1Gdf1elM7Unnipf/GRUPO-01?type=design&node-id=0%3A1&mode=design&t=wx7tCCXBU7ENqsw1-1
+   ```
+   ```
+   Grupo 02
+   https://www.figma.com/file/vTyTq0NxaDI8rzZC7z7FmW/GRUPO-02?type=design&node-id=0%3A1&mode=design&t=mbAmZFXRwQlhdaoW-1
+   ```
+<h4> 3. Diseñar Modelo Relacional de la base de datos </h4>
+
+   ```
+   Eligir cualquiera de las dos herramientas.
+   https://www.drawio.com/
+   https://www.lucidchart.com/
+   ```
+
+<h4> 4. Diseña tu WEB utilizando HTML - CSS </h4>
+<h4> 5. Utiliza el Framework Bootrastrap </h4>
+   ```
+   https://getbootstrap.com/
+   ```
 ![Descripción de la imagen](capture-HackathonSenati.png)
