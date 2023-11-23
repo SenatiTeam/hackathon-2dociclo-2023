@@ -29,8 +29,8 @@ Github Action : Jekyll using Docker image
 
  <h4> 4. Diseña tu WEB utilizando HTML - CSS (codigo puro) </h4>
  <h4> 4.1 Entra a tu GITHUB </h4>  
- <h4> 4.2 Crea tu repositorio ya sea en la organización senati o en tu mismo perfil. </4>
- <h4> 4.3 Invita a tus programadores (colaboradores) para que te ayuden (minimo 2). </4>
+ <h4> 4.2 Crea tu repositorio ya sea en la organización senati o en tu mismo perfil. </h4>
+ <h4> 4.3 Invita a tus programadores (colaboradores) para que te ayuden (minimo 2). </h4>
  <h4> 4.4 Empieza a trabajar colaborativamentecon el EDITOR DE TEXTO DE GITHUB en tiempo real- (Revisare los Push y los comentarios) </h4>
  <hr/>
  <h4> 5. En PHP - Utiliza el Framework Bootrastrap solo para diseñar los formularios y reportes| para hacer el formulario de registro de cliente y la tabla de reportes </h4>
@@ -38,5 +38,10 @@ Github Action : Jekyll using Docker image
    ```
    https://getbootstrap.com/
    ```
+
+ <h4> Crea tu Base de datos en el Gestor de base de datos "MYSQL", ya estructurado anteriormente o previamente</h4>
+ <h4> Creas tus archivos de PHP y tus carpetas, trabaja en tu editor de texto mas confiable (vscode, sublime, brackets,atom)</h4>  
+ <h4> Activa tu servidor local (XAMP)</h4>
+ <h4> Empieza a codificar. </h4>
 
 ![Descripción de la imagen](capture-HackathonSenati.png)
