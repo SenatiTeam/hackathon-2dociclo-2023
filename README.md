@@ -73,7 +73,7 @@ Github Action : Jekyll using Docker image
  <h4> 5.4 Empieza a codificar. </h4>
  <h4> 5.5 El sistema debe tener estas funcionalidades. </h4>
     <ol>
-       <li>Reconocer si es administrador, Chef, Cocinero, Mesero, Cajero</li>
+       <li>Reconocer si es administrador, Chef, Cocinero, Mesero, Cajero y Administrador</li>
        <li>Si es administrador que me muestre los siguientes items</li>
             <ul>
                <li>Formulario de registro de empleados y menus</li>
