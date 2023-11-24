@@ -53,7 +53,7 @@ Github Action : Jekyll using Docker image
          CREATE TABLE empleados (
              id_empleado INT PRIMARY KEY AUTO_INCREMENT,
              nombre VARCHAR(50) NOT NULL,
-             emal VARCHAR(50) UNIQUE NOT NULL,
+             email VARCHAR(50) UNIQUE NOT NULL,
              password VARCHAR(50) NOT NULL
              roles VARCHAR(50) NOT NULL,
              salario DECIMAL(10,2) NOT NULL
