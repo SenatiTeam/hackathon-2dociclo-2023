@@ -99,5 +99,6 @@ https://www.lucidchart.com/
             </ul>
        </li>
     </ol>
-
+</hr>
+<h2> IMAGEN DE LA PAGINA WEB</h2>
 ![Descripción de la imagen](capture-HackathonSenati.png)
