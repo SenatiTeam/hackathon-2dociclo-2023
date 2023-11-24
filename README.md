@@ -28,12 +28,13 @@ Github Action : Jekyll using Docker image
  <hr/>
  <h2>Crea un sistema de RESTAURANTE que contenga el LOGIN o INICIAR SESIÓN, tambien REGISTRO y REPORTES de "menus y empleados" utilizando PHP y MSYSQL</h4>
  <h4> 4. Diseñar Modelo Relacional de la base de datos que se llamara "restaurante_bd" </h4>
-   
-      ```
-      Eligir cualquiera de las dos herramientas.
-      https://www.drawio.com/
-      https://www.lucidchart.com/
-      ```
+ 
+```
+Eligir cualquiera de las dos herramientas.
+https://www.drawio.com/
+https://www.lucidchart.com/
+```
+      
  <h4> 4. Debe contener dos tablas en tu base de datos "PLATOS DE COMIDA (menu)", "EMPLEADOS"  </h4>
  <h3> TABLA platos</h3>
        
@@ -41,7 +42,7 @@ Github Action : Jekyll using Docker image
       CREATE TABLE plato (
           id_plato INT PRIMARY KEY AUTO_INCREMENT,
           nombre_plato VARCHAR(50) NOT NULL,
-          descripcion TEXT,
+          descripcion VARCHAR(50) NOT FULL,
           precio DECIMAL(8,2) NOT NULL
       );
     
