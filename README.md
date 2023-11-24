@@ -26,7 +26,7 @@ Github Action : Jekyll using Docker image
  <h4> 3.4 Empieza a trabajar colaborativamentecon el EDITOR DE TEXTO DE GITHUB en tiempo real- (Revisare los Push y los comentarios) </h4>
  
  <hr/>
- <h2>Crea un sistema que tenga el LOGIN o INICIAR SESIÓN, tambien REGISTRO y REPORTES de "MENUS DE RESTAURANTE" utilizando PHP y MSYSQL</h4>
+ <h2>Crea un sistema de RESTAURANTE que contenga el LOGIN o INICIAR SESIÓN, tambien REGISTRO y REPORTES de "menus y empleados" utilizando PHP y MSYSQL</h4>
  <h4> 4. Diseñar Modelo Relacional de la base de datos que se llamara "restaurante_bd" </h4>
    
       ```
@@ -34,9 +34,8 @@ Github Action : Jekyll using Docker image
       https://www.drawio.com/
       https://www.lucidchart.com/
       ```
- <h4> 4. Debe contener tres tablas en tu base de datos "PLATOS DE COMIDA (menu)", "EMPLEADOS"  </h4>
-
-<h3> TABLA platos</h3>
+ <h4> 4. Debe contener dos tablas en tu base de datos "PLATOS DE COMIDA (menu)", "EMPLEADOS"  </h4>
+ <h3> TABLA platos</h3>
        
    
       CREATE TABLE plato (
@@ -71,7 +70,7 @@ Github Action : Jekyll using Docker image
  <h4> 5.2 Creas tus archivos de PHP y tus carpetas, trabaja en tu editor de texto mas confiable (vscode, sublime, brackets,atom)</h4>  
  <h4> 5.3 Activa tu servidor local (XAMP)</h4>
  <h4> 5.4 Empieza a codificar. </h4>
- <h4> 5.5 El sistema debe tener estas funcionalidades. </h4>
+ <h4> 5.5 La sitio web del sistema debe tener estas funcionalidades que se mostraran en la pantalla respectivamente para cada ROLES. </h4>
     <ol>
        <li>Reconocer si es administrador, Chef, Cocinero, Mesero, Cajero y Administrador</li>
        <li>Si es administrador que me muestre los siguientes items</li>
