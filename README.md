@@ -19,22 +19,48 @@ Github Action : Jekyll using Docker image
    https://www.figma.com/file/vTyTq0NxaDI8rzZC7z7FmW/GRUPO-02?type=design&node-id=0%3A1&mode=design&t=mbAmZFXRwQlhdaoW-1
    ```
 
-<h4> 3. Diseñar Modelo Relacional de la base de datos </h4>
-
-   ```
-   Eligir cualquiera de las dos herramientas.
-   https://www.drawio.com/
-   https://www.lucidchart.com/
-   ```
-
- <h4> 4. Diseña tu WEB utilizando HTML - CSS (codigo puro) </h4>
- <h4> 4.1 Entra a tu GITHUB </h4>  
- <h4> 4.2 Crea tu repositorio en publico, ya sea en la organización senati o en tu mismo perfil. </h4>
- <h4> 4.3 Invita a tus programadores (colaboradores) para que te ayuden (minimo 2). </h4>
- <h4> 4.4 Empieza a trabajar colaborativamentecon el EDITOR DE TEXTO DE GITHUB en tiempo real- (Revisare los Push y los comentarios) </h4>
+ <h4> 3. Diseña tu WEB utilizando HTML - CSS (codigo puro) </h4>
+ <h4> 3.1 Entra a tu GITHUB </h4>  
+ <h4> 3.2 Crea tu repositorio en publico, ya sea en la organización senati o en tu mismo perfil. </h4>
+ <h4> 3.3 Invita a tus programadores (colaboradores) para que te ayuden (minimo 2). </h4>
+ <h4> 3.4 Empieza a trabajar colaborativamentecon el EDITOR DE TEXTO DE GITHUB en tiempo real- (Revisare los Push y los comentarios) </h4>
+ 
  <hr/>
+ <h2>Crea un sistema que tenga el LOGIN o INICIAR SESIÓN, tambien REGISTRO y REPORTES de "MENUS DE RESTAURANTE" utilizando PHP y MSYSQL</h4>
+ <h4> 4. Diseñar Modelo Relacional de la base de datos que se llamara "restaurante_bd" </h4>
+   
+      ```
+      Eligir cualquiera de las dos herramientas.
+      https://www.drawio.com/
+      https://www.lucidchart.com/
+      ```
+ <h4> 4. Debe contener tres tablas en tu base de datos "PLATOS DE COMIDA (menu)", "EMPLEADOS"  </h4>
 
- <h2>Crea un sistema que tenga el LOGIN o INICIAR SESIÓN, tambien REGISTRO y REPORTES de "clientes" utilizando PHP y MSYSQL</h4>
+<h3> TABLA platos</h3>
+       
+   
+      CREATE TABLE plato (
+          id_plato INT PRIMARY KEY AUTO_INCREMENT,
+          nombre_plato VARCHAR(50) NOT NULL,
+          descripcion TEXT,
+          precio DECIMAL(8,2) NOT NULL
+      );
+    
+
+<h3> TABLA empleados</h3>
+       
+    
+         CREATE TABLE empleados (
+             id_empleado INT PRIMARY KEY AUTO_INCREMENT,
+             nombre VARCHAR(50) NOT NULL,
+             emal VARCHAR(50) UNIQUE NOT NULL,
+             password VARCHAR(50) NOT NULL
+             roles VARCHAR(50) NOT NULL,
+             salario DECIMAL(10,2) NOT NULL
+         );
+
+       En el "roles" iran estos datos:  ('Chef', 'Cocinero', 'Mesero', 'Cajero', 'Administrador')
+    
  <h4> 5. En PHP - Utiliza el Framework Bootrastrap solo para diseñar los formularios, la tabla de reportes, el login </h4>
 
    ```
@@ -45,5 +71,20 @@ Github Action : Jekyll using Docker image
  <h4> 5.2 Creas tus archivos de PHP y tus carpetas, trabaja en tu editor de texto mas confiable (vscode, sublime, brackets,atom)</h4>  
  <h4> 5.3 Activa tu servidor local (XAMP)</h4>
  <h4> 5.4 Empieza a codificar. </h4>
+ <h4> 5.5 El sistema debe tener estas funcionalidades. </h4>
+    <ol>
+       <li>Reconocer si es administrador, Chef, Cocinero, Mesero, Cajero</li>
+       <li>Si es administrador que me muestre los siguientes items</li>
+            <ul>
+               <li>Formulario de registro de empleados y menus</li>
+               <li>Reporte de los empleados y menus</li>
+            </ul>
+       <li>Si es Cajero que tengas estas funcionalidades</li>
+            <ul>
+               <li>Que no me muestre en el reporte el monto salarial de los empleados</li>
+               <li>Reporte de los empleados y menus</li>
+            </ul>
+       </li>
+    </ol>
 
 ![Descripción de la imagen](capture-HackathonSenati.png)
