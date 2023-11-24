@@ -93,7 +93,7 @@ https://www.lucidchart.com/
                <li>Que me muestre la tabla de reportes de menus</li>
             </ul>
        </li>
-       <li>'Chef', 'Cocinero'</li>
+       <li>Si es 'Chef', 'Cocinero' que me visualize en la pantalla:</li>
             <ul>
                <li>Que solamente me visualize un mensaje en la pantalla: "PROXIMAMENTE NUEVAS FUNCIONALIADES EN EL SISTEMA"</li>
             </ul>
