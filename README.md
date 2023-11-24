@@ -81,8 +81,21 @@ Github Action : Jekyll using Docker image
             </ul>
        <li>Si es Cajero que tengas estas funcionalidades</li>
             <ul>
-               <li>Que no me muestre en el reporte el monto salarial de los empleados</li>
-               <li>Reporte de los empleados y menus</li>
+               <li>Que no me muestre en la tabla reporte, la parte del monto salarial de los empleados (el cajero no debe ver cuanto gana cada empleado)</li>
+               <li>Que visualize el reporte de los empleados y menus</li>
+               <li>Que visualize el formulario de menus</li>
+            </ul>
+       </li>
+        <li>Si es Mesero que tengas estas funcionalidades</li>
+            <ul>
+               <li>Que no me muestren el formulario de registro de menus y de empleados</li>
+               <li>Que no me muestren los reportes de empleados</li>
+               <li>Que me muestre la tabla de reportes de menus</li>
+            </ul>
+       </li>
+       <li>'Chef', 'Cocinero'</li>
+            <ul>
+               <li>Que solamente me visualize un mensaje en la pantalla: "PROXIMAMENTE NUEVAS FUNCIONALIADES EN EL SISTEMA"</li>
             </ul>
        </li>
     </ol>
