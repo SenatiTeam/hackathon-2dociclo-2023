@@ -81,7 +81,7 @@ https://www.lucidchart.com/
             </ul>
        <li>Si es Cajero que tengas estas funcionalidades</li>
             <ul>
-               <li>Que no me muestre en la tabla reporte, la parte del monto salarial de los empleados (el cajero no debe ver cuanto gana cada empleado)</li>
+               <li>la parte del monto salarial de los empleados (el cajero no debe ver cuanto gana cada empleado)</li>
                <li>Que visualize el reporte de los empleados y menus</li>
                <li>Que visualize el formulario de menus</li>
             </ul>
